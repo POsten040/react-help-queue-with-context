@@ -1,12 +1,12 @@
 ## Important Note to Epicodus Students
 
-This is a completed version of the Help Queue project written in React. This version includes the a toggleable light and dark theme, as described in the lessons on React context in [the LearnHowToProgram.com React course](https://www.learnhowtoprogram.com/react) section 5 "React with APIs", starting in the lesson "React Context":
+This is a completed version of the Help Queue project written in React. This version includes the a toggleable light and dark theme, as described in the lessons on React context in [the LearnHowToProgram.com _React_ course](https://www.learnhowtoprogram.com/react) section 5 "React with APIs", starting in the lesson "React Context":
 
 [https://www.learnhowtoprogram.com/react/react-with-apis/react-context](https://www.learnhowtoprogram.com/react/react-with-apis/react-context)
 
 There's 3 different branches on this repo that uses 3 different techniques and tools to create the toggleable light and dark theme:
 
-* [01_with_context](https://github.com/epicodus-lessons/react-help-queue-with-context) use React context.
+* [01_with_context](https://github.com/epicodus-lessons/react-help-queue-with-context) uses React context.
 * [02_with_props_and_composition](https://github.com/epicodus-lessons/react-help-queue-with-context/tree/02_with_props_and_composition) uses React props and component composition. 
 * [03_with_useTheme_hook](https://github.com/epicodus-lessons/react-help-queue-with-context/tree/03_with_useTheme_hook) combines the context state management with a custom provider component and abstracts the context consumer logic into a custom hook.  
 
