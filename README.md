@@ -8,7 +8,7 @@ There's 3 different branches on this repo that uses 3 different techniques and t
 
 * [01_with_context](https://github.com/epicodus-lessons/react-help-queue-with-context) uses React context.
 * [02_with_props_and_composition](https://github.com/epicodus-lessons/react-help-queue-with-context/tree/02_with_props_and_composition) uses React props and component composition. 
-* [03_with_useTheme_hook](https://github.com/epicodus-lessons/react-help-queue-with-context/tree/03_with_useTheme_hook) combines the context state management with a custom provider component and abstracts the context consumer logic into a custom hook.  
+* [03_custom_consumer_hook_and_provider](https://github.com/epicodus-lessons/react-help-queue-with-context/tree/03_custom_consumer_hook_and_provider) combines the context state management with a custom provider component and abstracts the context consumer logic into a custom hook.  
 
 ---
 
