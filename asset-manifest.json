@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-help-queue-with-context/static/css/main.7bbc969a.css",
+    "main.js": "/react-help-queue-with-context/static/js/main.ebc1d135.js",
+    "static/js/787.c35586d2.chunk.js": "/react-help-queue-with-context/static/js/787.c35586d2.chunk.js",
+    "index.html": "/react-help-queue-with-context/index.html",
+    "main.7bbc969a.css.map": "/react-help-queue-with-context/static/css/main.7bbc969a.css.map",
+    "main.ebc1d135.js.map": "/react-help-queue-with-context/static/js/main.ebc1d135.js.map",
+    "787.c35586d2.chunk.js.map": "/react-help-queue-with-context/static/js/787.c35586d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bbc969a.css",
+    "static/js/main.ebc1d135.js"
+  ]
+}
